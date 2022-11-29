@@ -1,4 +1,5 @@
-#### _IPK Project 1: Client for OpenWeatherMap API_
+# _Client for OpenWeatherMap API_
+### _IPK Project 1: Client for OpenWeatherMap API_
 
 **Name and surname: Marius Iustin Grossu**
 
