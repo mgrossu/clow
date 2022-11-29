@@ -1,5 +1,5 @@
 # _Client for OpenWeatherMap API_
-### _IPK Project 1: Client for OpenWeatherMap API_
+### _Project 1 for IPK course at Faculty of Information Technology, Brno University of Technology_
 
 **Name and surname: Marius Iustin Grossu**
 
