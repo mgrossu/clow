@@ -1,6 +1,6 @@
 make:
-	python3 proj1.py	
+	python3 clow.py	
 run:
-	python3 proj1.py ${api_key} "${city}"
+	python3 clow.py ${api_key} "${city}"
 help:
-	python3 proj1.py --help
+	python3 clow.py --help
