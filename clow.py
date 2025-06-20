@@ -1,6 +1,6 @@
 ################################################################
-#autor: Marius Iustin Grossu (xgross10) #
-#IPK 1. project option 2: Client for OpenWeatherMap interface
+#autor: Marius Iustin Grossu (mgrossu) #
+#Client for OpenWeatherMap interface
 ################################################################
 
 import sys
